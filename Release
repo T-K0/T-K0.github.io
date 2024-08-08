@@ -3,6 +3,6 @@ Label: lcee’s Repo/Archive  🌊
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: lcee's Cydia Repo :) 𝑏𝑟𝑢𝑡𝑎𝑙 𝑗𝑢𝑠𝑡𝑖𝑐𝑒.
