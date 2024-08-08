@@ -6,3 +6,9 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: lcee's Cydia Repo :) 𝑏𝑟𝑢𝑡𝑎𝑙 𝑗𝑢𝑠𝑡𝑖𝑐𝑒.
+MD5Sum:
+ 9da947fc5dd5c6ca00edb36fa0ba1f03 29768 Packages
+ 4a0f55c5e84a9a0b518b76d1f8abd5c3 84090 Packages.bz2
+SHA256:
+ 8afed8d427a614e4340a661e0f5509b7d16bdf3dcef4e18a011e981e801c8f9b 29768 Packages
+ e342ce22ec668d013cebdbec116d779c7e8bf8515091609985ac9603df5223f9 84090 Packages.bz2
