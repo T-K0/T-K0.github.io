@@ -1,0 +1,772 @@
+Package: com.lcee.jupiter                         
+Version: 1.0                                      
+Architecture: iphoneos-arm                        
+Maintainer: lcee                                  
+Depends: com.anemonetheming.anemone | com.spark.snowboard                                             
+Filename: ./debs/JupiterCydiaTheme_V1.0.deb            
+Size: 3205634
+MD5sum: d13ab196ad2115acbb5cf5cd83167c38
+SHA1: 5c2dd6f27d3798269a746036b765418f7025b014
+SHA256: 44747bdb476920e14ca43ef17b9f8b40289f13ebbb18b2101cb9a4170b3e4218
+Section: Themes                                   
+Description: A theme with beautiful icons and little corners!  
+Author: lcee                                      
+Name: Jupiter 🪐
+
+Package: com.rileytestut.Delta
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=12.2)
+Filename: ./debs/DeltaEmu_V1.1.2.deb
+Size: 17307516
+MD5sum: a681e22276cdcf9ca434e81a1d0451a8
+SHA1: 34b766b9ad878279020cab60933618e3a03b29d5
+SHA256: 21ee3224c31c895f855376ceab76d994de19740d44f47ef42905f3ee025b0f15
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, and GBA.
+Author: Riley Testut
+Name: Delta
+
+Package: com.rileytestut.Delta
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=12.2)
+Filename: ./debs/DeltaEmu_V1.2.deb
+Size: 18242860
+MD5sum: a5c3b38b50d90f6998924b29e3670a36
+SHA1: 1608e1a0cc2749f00a923bc2709a70a7783b9311
+SHA256: f18b8a3bb48f7496d87c5f3480bc709ce11533680d3a27e7e98fba21c5980576
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, GBA and DS(Beta).
+Author: Riley Testut
+Name: Delta
+
+Package: com.rileytestut.Delta
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=12.2)
+Filename: ./debs/DeltaEmu_V1.3.deb
+Size: 19401076
+MD5sum: cf4b522a6e409a8214be27a24aece138
+SHA1: 020889f791a05c1de589aa51c3f6df57e25e0984
+SHA256: ea3ca2145704342c3aa5628c51990016f46eb158f8650fb39dee4a8cddb2ebf1
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, GBA and DS.
+Author: Riley Testut
+Name: Delta
+
+Package: com.rileytestut.Delta
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=12.2)
+Filename: ./debs/DeltaEmu_V1.3.1.deb
+Size: 19514058
+MD5sum: ff21d4a2cd593dfcd64f81d778f3ae7e
+SHA1: 3f7ad7699c65eefaa4d46fbcf6646dafd68816bc
+SHA256: fa5670b94498327e4253f9a55967f92a63fcece06095caf0d70ed405917f20ab
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, GBA and DS.
+Author: Riley Testut
+Name: Delta
+
+Package: com.lcee.phintrochargesound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/PHintroChargingSound.deb
+Size: 47916
+MD5sum: 52f746b64b732975f6da694e741ed248
+SHA1: d822ab099772c9cfab12de04c93a1469fcb3d4ed
+SHA256: ad53c3f0257ba2e8dd98fda59bf750077d0343eae034704aad51ea74c8f194f1
+Section: Tweaks
+Description: You already know how it goes. ;) Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: PornHub intro Charging Sound
+
+Package: com.lcee.yametekudasaichargesound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/YameteKudasaiChargingSound.deb
+Size: 32064
+MD5sum: 423d8126cc30f5f3baff26b5e1969ec0
+SHA1: b48fdfdc765a2696bbce7678281459202562d9f8
+SHA256: 47fdde2551fae9d5154ecde59f36b4d690cbf7f74fcc60ee96e318f07847f9ea
+Section: Tweaks
+Description: Yamete Kudasai. UwU Apply via Snowboard or Anemone then respring to activate. (NSFW)
+Author: lcee
+Name: Yamete Kudasai Charging Sound
+
+Package: com.apple.touchfighter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (<= 10.3.4)
+Filename: ./debs/TouchFighter.deb
+Size: 9880160
+MD5sum: 64c33f57060698fce1ac7741fe35e1fe
+SHA1: 1a70c08d50b81ee73efb1a0b26db2d56e868711d
+SHA256: 4e238ff8ad9340ab5c2fcdcddb0db8294ae2b93fea37880c100319fdab9f8f63
+Section: Applications
+Description: An Apple Internal game. Only works on iOS 5.0 through iOS 10.3.4
+Author: Apple
+Name: TouchFighter
+
+Package: winterboard
+Version: 0.9.3915
+Architecture: iphoneos-arm
+Maintainer: lcee
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.3225-1), killall, preferenceloader, libhide (>= 2.0.4), findutils, net.howett.pincrush (>= 0.0.1-23) | pincrush | firmware (<= 3.1.3)
+Filename: ./debs/WinterBoard_V0.9.3915.deb
+Size: 240774
+MD5sum: ef45ae67e3e01e989cdb3568fca3e3d8
+SHA1: 3bedbf408ec5cdf8a75800dff8eab51579eef152
+SHA256: 0760fc2cbd4cbe76c9844ace8e020176fdb2813ff23d32b21b3c0bc3f721b35b
+Section: System
+Description: more powerful, open-source SummerBoard. This is a legacy version of WinterBoard that only works on iOS 3!
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: WinterBoard
+Depiction: http://cydia.saurik.com/info/winterboard/
+Homepage: http://www.saurik.com/id/9
+Breaks: jp.ashikase.folderenhancer (<< 1.6.0.2-1)
+Provides: theme-manager
+Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Replaces: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Priority: optional
+
+Package: com.lcee.nani
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/NaniChargingSound.deb
+Size: 18174
+MD5sum: 904380391fe830340436b1e321ab9ce9
+SHA1: 835b2ba1f217e6804d2371ac6be3485642c103dd
+SHA256: bc9e66911a10f1f2e4760e3bd74234b3981809cd78da283bb583695f449a6bdc
+Section: Tweaks
+Description: NANI?! Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Nani?! Charging Sound
+
+Package: com.lcee.amongusimposter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/AmongUsImposterChargingSound.deb
+Size: 63512
+MD5sum: e51fa3fa9a4d3e0cb7674091c0a26ba5
+SHA1: 7c68477848193bf01664c9c5f884290d68f6fb59
+SHA256: fa2beff8401062a53ce8143e36e8bb285d40f59a1a41364422824073a1e03235
+Section: Tweaks
+Description: Idk but Red be looking sus tho. Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Among Us Imposter Charging Sound
+
+Package: com.lcee.HaloShield
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/HaloShieldRechargeChargingSound.deb
+Size: 39796
+MD5sum: b5719d68f2749e971252ebe334368aad
+SHA1: 10d8478b3cb5055be387809961757fae5223581f
+SHA256: 10aa3cd5dabbe1bc56ae9d9f4bcaa176a0edd573c537789818082e4287d7c7f0
+Section: Tweaks
+Description: Your energy shields are down, take cover! Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Halo Shield Recharge Sound
+
+Package: com.apple.phonemo
+Version: 2.16.3
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.0)
+Filename: ./debs/iCrowd_V2.16.3.deb
+Size: 3943234
+MD5sum: 222a9f53a630e3de07114baf4717f186
+SHA1: dcbfebf7849fb5f53a5ddce56b1a8be0f7ad184f
+SHA256: 7910307526ab712d680faf15ecc1795695908814aed6b6ef0085cb6c460af4bb
+Section: Applications
+Description: An Apple Internal app.
+Author: Apple
+Name: iCrowd
+
+Package: com.apple.phonemo
+Version: 2.16.3
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.0)
+Filename: ./debs/iCrowd-eUAT_V2.16.3.deb
+Size: 3943470
+MD5sum: e6ca170b7ea87373190277567586cc4c
+SHA1: 9eaef8cd01f9f1bb04c9a20336c85fe17ef87c84
+SHA256: 8e29f5434cd21f642f634704c36d864218a59495040dbfdbe311444442779242
+Section: Applications
+Description: An Apple Internal app. eUAT Version, might or might NOT work.
+Author: Apple
+Name: iCrowd-eUAT
+
+Package: com.ist.apple.Bazaar
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.3)
+Filename: ./debs/OnePulse_V2.4.deb
+Size: 12965432
+MD5sum: 026a9862fc02910e7eb33385d14b4a39
+SHA1: 839eb67365092c7b7cccee76411c50ce063d53c9
+SHA256: f259d77fd93315fb6733ea5083d98a720471ec4da734d1fd88e0c75906c6107e
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.Bazaar
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.3)
+Filename: ./debs/OnePulse_V2.5.deb
+Size: 13540078
+MD5sum: c761cdca77642f8414c54f008089975b
+SHA1: e84660febebd4497d348d746b905d731b804310f
+SHA256: e04b9ae051bef81899ed744b7f5179d033f7641f2a4499507d8f92b7c6348228
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.Bazaar
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.3)
+Filename: ./debs/OnePulse_V2.6.deb
+Size: 13755942
+MD5sum: 94978dd9be1965f8280d75cab973caa2
+SHA1: e96f42f571a58279dd0f48f6ef4c0e409b00d77f
+SHA256: 2777a37ab49c245e9edb66610fbc3d012fa4ee8ee1b208f0af04e7e9b29f893d
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.Bazaar
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.3)
+Filename: ./debs/OnePulse_V2.6.1.deb
+Size: 13758522
+MD5sum: 98eb717dc15c2cb3afcd61544a4d9622
+SHA1: b55d7189af127b08fe41e70edae8b037c9d68bcd
+SHA256: 8122158d6e827dacf9026661b90d20c76cb1a19f5efd57a2326b07ee01a58861
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.Bazaar
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 13.0)
+Filename: ./debs/OnePulse_V2.7.deb
+Size: 2964920
+MD5sum: 53ab12bbe36fe03bc8494f42c7f5e70a
+SHA1: 1b362f67c53b03b34827e0a17e25cb8964a68c09
+SHA256: e74c664e91568afdb2809896e4ec88bdc6beff4a92d204a0ea16e8a6377d88bf
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.Bazaar
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 13.0)
+Filename: ./debs/OnePulse_V2.8.deb
+Size: 2965796
+MD5sum: 7f43cf665ee3b9e61c9bbbc5d5d8ff45
+SHA1: fb7a5a0e674b99d07737c2c8990b85df3b771475
+SHA256: 80dfa5a85900c4cda75261fb588f08d5b3c0411d642836e5e8e459c52d0b5bc2
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.MyMessage
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 12.0)
+Filename: ./debs/MyMessage_V4.0.2.deb
+Size: 39603918
+MD5sum: 0b394b96b4116c55177380c0cbcf1476
+SHA1: 49fd555fe5892448bf3a8a5cf9fcb11f3ac58f42
+SHA256: dea38f3d66b3e235a749e0cfe826838aa6999d486008b43a04fa656aa8da95f0
+Section: Applications
+Description: An Apple Internal app. MyMessage is used by Apple to communicate with field sales leaders throughout the world. Apple sends messages and surveys to introduce key initiatives, describe new product launch details, gather storefront feedback, and much more.
+Author: Apple
+Name: MyMessage
+
+Package: com.ist.apple.MyMessage
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=13.0)
+Filename: ./debs/MyMessage_V4.1.deb
+Size: 17434612
+MD5sum: 169d9b4884f94ead7c52514d619e8fb6
+SHA1: d4256bf156dd6f9062054442bb5bcc02329faed0
+SHA256: 104411726d0bcc6f56535ed68ecb62ca3bda873417e797d628730a166d8dde8e
+Section: Applications
+Description: An Apple Internal app. MyMessage is used by Apple to communicate with field sales leaders throughout the world. Apple sends messages and surveys to introduce key initiatives, describe new product launch details, gather storefront feedback, and much more.
+Author: Apple
+Name: MyMessage
+
+Package: com.ist.apple.MyMessage
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=13.0)
+Filename: ./debs/MyMessage_V4.1.1.deb
+Size: 17437584
+MD5sum: 217dad888002f09cc4051f6f5977d2e0
+SHA1: 913565fc8614bf92cd4f47bcea75cb9d31e5d8dc
+SHA256: c1078c7086ba3854c86335d50dcfb25ebc6c45998272a54d7abd2597ea5a67f7
+Section: Applications
+Description: An Apple Internal app. MyMessage is used by Apple to communicate with field sales leaders throughout the world. Apple sends messages and surveys to introduce key initiatives, describe new product launch details, gather storefront feedback, and much more.
+Author: Apple
+Name: MyMessage
+
+Package: com.apple.ist.NetworkCheck
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 12.0)
+Filename: ./debs/NetworkCheck_V1.7.deb
+Size: 12527152
+MD5sum: b218b9c6d22c2bb46c59c128965efc5f
+SHA1: 5c3e7cc0efb23e20ae85b83fae82e20600f03cae
+SHA256: b10cc9866083c7cc122f13279bc3361ba660f41f7ffa18280270400f745b3f6a
+Section: Applications
+Description: An Apple Internal app. The NetworkCheck app evaluates a Wi-Fi or Cellular network to determine if it meets the criteria for Apple Demo Programs.
+Author: Apple
+Name: NetworkCheck
+
+Package: com.apple.ist.sbm
+Version: 8.4.6
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.4.1)
+Filename: ./debs/SwitchBoard_V8.4.6.deb
+Size: 1264784
+MD5sum: d28250763a7717f88bafce76683136d1
+SHA1: b702ee66e874c399932188e2d7891d43468cd39f
+SHA256: 4285c0260c643edeae125eccadb825e501244ab74551addde9a1b9900af3ecda
+Section: Applications
+Description: An Apple Internal AppStore. Needs an AppleConnect account to work.
+Author: Apple
+Name: Switchboard
+
+Package: org.coolstar.stash933
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 9.2), firmware (<= 9.3.6), org.coolstar.cctools
+Filename: ./debs/stash933.deb
+Size: 30660
+MD5sum: e224fb7eeb91085b1fcf847887b1b5b3
+SHA1: ea57489d7d2e1469da2cca7fa26c01c89dd8f301
+SHA256: 3708173ca8728cbde1d96cdb0d2fef0d86d6183be5a5b515e8069afc6eca3786
+Section: System
+Description: Stash 3rd party components to make more space for them! Modified by lcee to work on 9.3.6
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: Stashing for iOS 9.2 - 9.3.6
+
+Package: com.lcee.kyaa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/KyaaChargingSound.deb
+Size: 37192
+MD5sum: cb2649afb92dac3dab5a0f762e99d416
+SHA1: c58be39d2cf47245ac02f1945796d88c9fa27d1e
+SHA256: c5f1db056333f1de8aa92f6ab776b13d3c559f963990bb3521467a531f421b03
+Section: Tweaks
+Description: Kyaa! >_< Apply via Snowboard or Anemone then respring to activate. (NSFW)
+Author: lcee
+Name: Kyaa! Charging Sound
+
+Package: com.lcee.ara
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/AraChargingSound.deb
+Size: 26320
+MD5sum: a46622048725e956381088260b1505c8
+SHA1: 10231503cb297d158b3546ec457b336f41ae5d14
+SHA256: 8d1d2578267fe8f99f903de579283cb963f25b6bdeb86dd34fd522957733e528
+Section: Tweaks
+Description: Ara Ara. Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Ara Ara. Charging Sound
+
+Package: com.ist.apple.seed
+Version: 5.7
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: 
+Filename: ./debs/SEED_V5.7.deb
+Size: 8700244
+MD5sum: e98ecbe96c3c944c767bc71ace3004db
+SHA1: 6f7ff71f023105a5cd1f60b0f9e4a6321bdee2fd
+SHA256: 95fe6098a6d9689414ba273c9af26b575fbd2148404b1784376264c04ce55048
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.ist.apple.seed
+Version: 5.8
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: 
+Filename: ./debs/SEED_V5.8.deb
+Size: 9210874
+MD5sum: aaeea4643565d6fad0ab1ebe70690edd
+SHA1: c992e99041e8286468cf6d6cfff578cc16738990
+SHA256: 1fdd8db31e012ea88a27e32d95959ac13fd7a24da774da248d1ff28330f213f6
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.ist.apple.seed
+Version: 5.9
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: 
+Filename: ./debs/SEED_V5.9.deb
+Size: 9215568
+MD5sum: ccef5d85179bc51708dd928671cfde31
+SHA1: 914f176cb32f9f729b10805cd819e7719e3e2d62
+SHA256: 7d76cdd46f4f18e293a819ef778a700a8c0420c4cd993743e39735a4d27e3292
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.ist.apple.seed
+Version: 5.10
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=13.0)
+Filename: ./debs/SEED_V5.10.deb
+Size: 8977734
+MD5sum: 49244fda2612a25fb1258acd72276b3f
+SHA1: 92d9c537dc45bd04f10e572583bac300b57328bc
+SHA256: bcd8e87ba14c5db4177e741584e921dcbb7a3134f80b7c9b6b1c200ff8f30669
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.lcee.error
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/ErrorChargingSound.deb
+Size: 12624
+MD5sum: 45bcac9394d0b62595b87de86ec76ecf
+SHA1: ab6e100dee50773f17883480d74dc8588f7c2c4a
+SHA256: 59890e95ed25c1b27121b997fa13e49c30774a59295a746f27428f3708ef44c3
+Section: Tweaks
+Description: *Error.* Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Windows XP Error Charging Sound
+
+Package: com.lcee.coin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/CoinChargingSound.deb
+Size: 22500
+MD5sum: b44e9a2fc593ed099801dd3bbff70065
+SHA1: f2bf59a8fb2ec4418f9ed108fd77ce756d56f2e8
+SHA256: c62ce7d1b2e08d5aada184d42eefe65b99550041b6d38e597a8baa138ca48469
+Section: Tweaks
+Description: Mama Mia! Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Mario Coin Charging Sound
+
+Package: com.lcee.unggoy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/GruntChargingSound.deb
+Size: 68622
+MD5sum: 5eb7bf4c7e2d093928146cd139ddfdf8
+SHA1: b5aa97382a530db46e4ad35ca54f2672af3822f9
+SHA256: 0582acdce9b5873f4556931ba4d9d21ed3e1ed5dc18addd3cabc84f511f529b6
+Section: Tweaks
+Description: "Light a match..." Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Grunt BDay Charging Sound 🎉
+
+Package: com.lcee.sangheili
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/WortChargingSound.deb
+Size: 19512
+MD5sum: 7bf343b98c7686fe407be688417c8377
+SHA1: d2fa8dd20d79908eb473b1f32af6e4d249d7d07d
+SHA256: 9242a0141c71e7318639f8fdf15fffb1e0f1176c3ea056e251bf7c1fa4b2fa45
+Section: Tweaks
+Description: Wort, Wort, Wort! Waaauggghhh! Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Wort! Charging Sound
+
+Package: com.apple.ist.events
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 13.0)
+Filename: ./debs/Events_V4.4.1.deb
+Size: 8674328
+MD5sum: 8f7b7682806c4b3658f323aed9cbc27a
+SHA1: c349f74c68a5c612986de53b86a58a715af0c206
+SHA256: 3c73c43d717d0c5c97c1e1e3d67953a45f47df0ccc2cbd21a147beb1ff3e2b44
+Section: Applications
+Description: An Apple Internal app. Events provides event organizers and attendees access to important information about their Apple-facilitated events. Organizers can check in attendees, loan devices, print badges, and more. Attendees can get updates and provide feedback about their events.
+Author: Apple
+Name: Events
+
+Package: com.apple.ist.training.staff
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 13.0)
+Filename: ./debs/Staff_V2.6.2.deb
+Size: 3153980
+MD5sum: 455048f467545bcb883275537c14b75f
+SHA1: 1804d0ed9cdcd68833bd44bc3810e40fc1dca954
+SHA256: 3fda97ec4cb59316ce8180196c86f2f3f41d4b0dfc24e289616419f9db3e4f4e
+Section: Applications
+Description: An Apple Internal app. MyDemo is a training App for Training Team and Reseller Partner staff.
+Author: Apple
+Name: MyDemo
+
+Package: com.apple.ist.training.staff
+Version: 2.6.3
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 13.0)
+Filename: ./debs/MyDemo_V2.6.3.deb
+Size: 3155326
+MD5sum: 8e19a85cf848617a8408a1361af4fff3
+SHA1: f843b131ace47027b015bbf3c6904d362712da1b
+SHA256: 4769e2b963dda5774edaa706206063b8f7d422c661621f68e7c1eff49ba73d2b
+Section: Applications
+Description: An Apple Internal app. MyDemo is a training App for Training Team and Reseller Partner staff.
+Author: Apple
+Name: MyDemo
+
+Package: com.apple.ist.outpost
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 9.0)
+Filename: ./debs/Outpost_V1.6.1.deb
+Size: 675666
+MD5sum: 8e5e916ebbd096acdb6976f3385831fb
+SHA1: c69cabdef4915d40238ff947706202211b0ceb2c
+SHA256: 045ff3d0f275085af4fd678e366597b39dd3fde62bfe364ef68e90b02c547647
+Section: Applications
+Description: An Apple Internal app. Needs an Apple Connect account to work. Outpost hosts two different apps once installed, which are Events and MyDemo.
+Author: Apple
+Name: Outpost
+
+Package: com.apple.ist.uibmobile
+Version: 10.2.6
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>= 11.0)
+Filename: ./debs/UniBox_V10.2.6.deb
+Size: 26213900
+MD5sum: bcf49616ddca3c66c63b86dbed459100
+SHA1: bdc2d0d22cd064460be744bcd6e09367ce10e322
+SHA256: e53330b7174446138e8cd1b1ea1c624b4f7cbdb21e31d638e7e2a5a7347c94fd
+Section: Applications
+Description: An Apple Internal app. Needs an AppleConnect account to work.
+Author: Apple
+Name: UniBox
+
+Package: com.apple.ist.heisenberg
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=11.0)
+Filename: ./debs/MySecurity_V2.8.deb
+Size: 13218234
+MD5sum: 3f86005858a82f4b7c1a1ea3d81a55cc
+SHA1: b265ba465f9c0f944931c4080cfc7b6bf18ac46a
+SHA256: ee3b168566847cbce1cc9c89cedb056128bb8465fc2ba77dc017416e368d4e45
+Section: Applications
+Description: An Apple Internal app. This app is used for securing internal accounts and your iPhone. Needs an AppleConnect account to work.
+Author: Apple
+Name: MySecurity
+
+Package: com.apple.FaceIDStoreDemo
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=11.0)
+Filename: ./debs/PearlStoreDemo_V1.0.4.deb
+Size: 106408
+MD5sum: 9046e61f94f5179a17ffedd965cd1e4d
+SHA1: c7de1d8a7dde6984c3bee426bc08f634e6b2ddef
+SHA256: f9c164b2d4e15f3b7032bb3051f5e667050125110372dc90735d121130b3cd5c
+Section: Applications
+Description: An Apple Demo app. PearlStoreDemo enables access to Face ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the Face ID feature. Only works on devices with Face ID support. *Note: When using this app, your currently saved face(s) will be reset and the user will have to setup Face ID again, passcode will still be functional.*
+Author: Apple
+Name: PearlStoreDemo
+
+Package: com.apple.MesaStoreDemo
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=8.0)
+Filename: ./debs/MesaStoreDemo_V3.1.1.deb
+Size: 147730
+MD5sum: 465e53283726a1b77d0d170df89dbd6f
+SHA1: d27281043b7936926adb3b7530bcb4199c3bf8bf
+SHA256: b9ac8473c0ffb1bbfb06aab69e2a3fed93e8f49db343204526c5440f906dfc28
+Section: Applications
+Description: An Apple Demo app. MesaStoreDemo enables access to Touch ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the Touch ID feature. Only works on devices with Touch ID support. *Note: When using this app, your currently saved fingerprint(s) will be reset and the user will have to setup Touch ID again, passcode will still be functional.*
+Author: Apple
+Name: MesaStoreDemo
+
+Package: com.apple.ist.AppleConnect
+Version: 3.9.1
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=11.3)
+Filename: ./debs/AppleConnectApp_V3.9.1.deb
+Size: 59144458
+MD5sum: f64130e66967f932b708d3960233d43c
+SHA1: 1396201ffb21bc3a793780b5f52420d5ee46d3a0
+SHA256: 3c36a9dbcfc0c365c33f671ca3528ad066ba7d3ee7faefdbca77c9dbf7cc039a
+Section: Applications
+Description: An Apple Internal app. Needs an AppleConnect account to work.
+Author: Apple
+Name: AppleConnectApp
+
+Package: com.apple.screeningtool
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: firmware (>=7.1)
+Filename: ./debs/ScreeningTool_V1.3.deb
+Size: 8314424
+MD5sum: 59964465ee6fb74df0990c16e10f7457
+SHA1: 84cdfb51b35b562b6aa50b7749e0ce6c285189df
+SHA256: 625d1b214a2ff632938c73bb9f55a250dd89736e3e82e7903ab33731764e2170
+Section: Applications
+Description: An Apple Internal app. This app was used for hardware quality testing of iPhones. *Note: This app is only to be used on the iPhone 5.*
+Author: Apple
+Name: ScreeningTool
+
+Package: com.lcee.jedi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/LightsaberChargingSound.deb
+Size: 44746
+MD5sum: 3afbb1e885cfbe3ad87a2e21d62e5476
+SHA1: 5c2dfb1cfce9fbe43965c8d175b32da51d29a14a
+SHA256: ff5fd642050501328e2e7d3943e36dccff0a9d05e64a58ba6ee8ca89705e4756
+Section: Tweaks
+Description: YOU WERE THE CHOSEN ONE! It was said that you would destroy the Sith, not join them, bring balance to the force, not leave it in darkness. Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Lightsaber Charging Sound
+
+Package: com.lcee.ronin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/RoninChargingSound.deb
+Size: 461470
+MD5sum: 492a916400ce5df95583e67c377bba0a
+SHA1: e996b189b0480f4acaa84cd83760f5c5342a500b
+SHA256: 3e21e03a96acafcc0b735d148669cecea2ea1d88057c9fb4068bebaa1c8604ac
+Section: Tweaks
+Description: The Ronin Sword transferred to pilot.⚔️ Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: TF2 Ronin Charging Sound ⚔️
+
+Package: com.lcee.pokecenter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/ClassicPokeCenterChargingSound.deb
+Size: 120028
+MD5sum: e9a49ade3c44ab70c7040d17afc5ad92
+SHA1: ca7975d022d473ed40cf02a67ba76ece49de021a
+SHA256: 7436e451c2e36afb293f3ab6df5cf1b1c3f7b15f13598a7b0f46cad5614c55c6
+Section: Tweaks
+Description: Welcome to our POKéMON CENTER! We heal your POKéMON back to perfect health! Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Classic PokéCenter Charging Sound
+
+Package: com.lcee.nursejoy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/PokeCenterChargingSound.deb
+Size: 27164
+MD5sum: 4420d9c5ee55648b7068c5f90c91b958
+SHA1: 563b99feb6c80d17284b0ffecc613a64fc5b6a7d
+SHA256: e79eb41a17833a4cf2af9691b02b844e8e524e846a4e2368a00451d39893d01f
+Section: Tweaks
+Description: Hello, and welcome to the POKéMON CENTER. We restore your tired POKéMON to full health. Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: PokéCenter Charging Sound
+
+Package: com.lcee.bendicion
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lcee
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/BendicionChargingSound.deb
+Size: 86458
+MD5sum: 534eae08d21c51b3ed80e852fded2e5d
+SHA1: a4aec02a105e362cc3976c71d7fbceefe98ab5b9
+SHA256: 72757e067b015baa9c87277975421edd6ae5a8e37cc0b867989bd731d7e7999c
+Section: Tweaks
+Description: Que Bendición. Ah. 👁🔔👁 Apply via Snowboard or Anemone then respring to activate.
+Author: lcee
+Name: Que Bendición Charging Sound
